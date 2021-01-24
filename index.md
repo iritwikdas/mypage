@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi, I am Ritwik Das
 
 You can use the [editor on GitHub](https://github.com/iritwikdas/mypage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
